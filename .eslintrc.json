@@ -12,12 +12,8 @@
             "error",
             4
         ],
-        "linebreak-style": [
-            "error",
-            "windows"
-        ],
         "quotes": [
-            "error",
+            "warn",
             "single"
         ],
         "semi": [
